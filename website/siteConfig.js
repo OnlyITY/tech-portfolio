@@ -67,9 +67,9 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'tonya-melvin-bryant-ab92b855',
-        twitter: 'tonyamccu',
-        github: 'tamelvinbryant',
+        linkedin: 'in-yip-b66718249',
+        twitter: 'NA',
+        github: 'OnlyITY',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
